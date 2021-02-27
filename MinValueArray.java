@@ -39,7 +39,7 @@ public class MinValueArray {
         
         // Ahora queremos localizar el segundo valor más pequeño y ponerlo en la 
         // segunda posición del array (en numeros[1])
-        
+        Hola
         
          
     }
